@@ -1,0 +1,2 @@
+# AmazonClone
+using full stack
